@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall orders and votes of both Houses of Parliament: made on Friday and Saturday last, for the bringing of the Kings Majesty to some of his houses neer London, to receive propositions from both kingdomes, for peace. And for the safety and security of the King, Parliament, city, and kingdome. With the copies of the letters from Sir Tho. Fairfax, to the Parliament, and the city. And a list of the names of the Committee of Safety.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83482</idno>
+            <idno type="STC">Wing E2290</idno>
+            <idno type="STC">Thomason E400_34</idno>
+            <idno type="STC">ESTC R201764</idno>
+            <idno type="EEBO-CITATION">99862264</idno>
+            <idno type="PROQUEST">99862264</idno>
+            <idno type="VID">114417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114417)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall orders and votes of both Houses of Parliament: made on Friday and Saturday last, for the bringing of the Kings Majesty to some of his houses neer London, to receive propositions from both kingdomes, for peace. And for the safety and security of the King, Parliament, city, and kingdome. With the copies of the letters from Sir Tho. Fairfax, to the Parliament, and the city. And a list of the names of the Committee of Safety.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The votes and orders are dated 30-31 July 1647.</note>
+                  <note>Annotation on Thomason copy: "Aug: 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Committee of Safety --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:114417:1" rendition="simple:additions"/>
+            <p>SEVERALL ORDERS AND VOTES of both Houſes OF PARLIAMENT: MADE On Friday and Saturday laſt, for the bringing of THE KINGS MAJESTY To ſome of his Houſes neer <hi>London,</hi> to re<g ref="char:EOLhyphen"/>ceive Propoſitions from both Kingdomes, for PEACE.</p>
+            <p>And for the ſafety and ſecurity of the King, Parliament, City, and Kingdome.</p>
+            <p>WITH The Copies of the Letters from Sir <hi>Tho. Fairfax,</hi> to the Parliament, and the City.</p>
+            <p>And a Liſt of the names of the Committee of <hi>Safety.</hi>
+            </p>
+            <p>
+               <add>Aug: 2<hi rend="sup">d</hi>
+               </add> Printed at <hi>London</hi> by <hi>Robert Ibbitſon.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_resolutions">
+            <pb facs="tcp:114417:2"/>
+            <pb n="1" facs="tcp:114417:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Veneris July 30. 1647.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>REſolved upon the Queſtion</hi> by the <hi>Lords</hi> in Parliament. That the right Honorable the Lord <hi>Will<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ughby</hi> of <hi>Pal<g ref="char:EOLhyphen"/>ham</hi> be Speaker of this houſe, <hi>pro tempore.</hi>
+            </p>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Veneris July 30. 1647.</date>
+                  </dateline>
+               </opener>
+               <p n="1">1. <hi>Reſolved by the Commons aſſembled in Parliament,</hi> That Mr. <hi>Pelham,</hi> a Member of this Houſe be Speaker thereof.</p>
+               <p n="2">2. Mr. <hi>Pelham</hi> being preſented by the <hi>Commons</hi> to the Houſe the <hi>Peeres,</hi> he made a ſpeech to their Lordſhips<g ref="char:punc">▪</g> declaring that the Houſe of Commons had made choyce of him (calling him<g ref="char:EOLhyphen"/>ſelfe the moſt unworthy of them) to be their <hi>Speaker;</hi> where<g ref="char:EOLhyphen"/>upon the Lords voted, that they doe approve of the ſaid choyce, and accordingly Mr. <hi>Pelham</hi> was eſtabliſhed, and returning to the Houſe Commons, the Members, cried to the Chaire.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Veneris is Iuly 30. 1647</date>
+                  </dateline>
+               </opener>
+               <p>Reſolved upon the Queſtion by the Commons in Parliament aſſembled, that <hi>Denzill Holles</hi> Eſquire, Sir <hi>Philip Stapleton;</hi> Sir <hi>Williaim Lewis,</hi> Sir <hi>Iohn Clotworthy,</hi> Sir <hi>William Waller,</hi> Sir <hi>Iohn Maynard,</hi> Major Generall <hi>Maſſie, Iohn Glynne,</hi> Eſquire, Recorder of <hi>London, Walter Long,</hi> Equire, Col. <hi>Edward Harley,</hi> and <hi>Antony Nicoll,</hi> Eſquire, be received into this Houſe, to ſit and vote as members thereof.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Veneris Iuly 30. 1647.</date>
+                  </dateline>
+               </opener>
+               <p>Papers were delivered by the Sheriffes and others from the Common-councell of the Citie of <hi>London,</hi> aſſuring the Houſes that care ſhould be taken by the City for ſufficient guards to ſe<g ref="char:EOLhyphen"/>cure their ſitting in ſafety. Whereupon it was <hi>Reſolved upon the Queſtion,</hi> By the Lords and Commons in Parliament aſſem<g ref="char:EOLhyphen"/>bled, that thankes be returned to the Citie of <hi>London</hi> for their offers and engagements to take care for the Parliaments ſitting in ſafety.</p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:114417:3"/>
+               <opener>
+                  <dateline>
+                     <date>Die Veneris 30 Iuly, 1647.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Reſolved upon the queſtion</hi> by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, that the care of the Kings children be commit<g ref="char:EOLhyphen"/>ted to the Lord Mayor of the City of <hi>London.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Veneris 30 July 1647.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Reſolved upon the queſtion,</hi> by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled that the Committee for ſafety of the Kingdome, be revived, and <hi>Sir William Waller,</hi> and <hi>Major Generall Maſſey</hi> to be added to the ſaid Committee. And that they repaire to the <hi>Mili<g ref="char:EOLhyphen"/>tia</hi> of the City of <hi>London,</hi> to conſult for the ſafety of the King, Parliament, City and Kingdomes</p>
+               <list>
+                  <head>The Names of the ſaid Committee</head>
+                  <item>The Earle of <hi>Pembroke,</hi>
+                  </item>
+                  <item>Earle of <hi>Rudland,</hi>
+                  </item>
+                  <item>Earle of <hi>Lincolne,</hi>
+                  </item>
+                  <item>Earle of <hi>Suffolke,</hi>
+                  </item>
+                  <item>Earle of <hi>Warwicke,</hi>
+                  </item>
+                  <item>Earle of <hi>Middleſex,</hi>
+                  </item>
+                  <item>Earle of <hi>Manchester,</hi>
+                  </item>
+                  <item>Earle of <hi>Stamford,</hi>
+                  </item>
+                  <item>Lord <hi>Willoughby,</hi>
+                  </item>
+                  <item>Lord <hi>Hunſdon,</hi>
+                  </item>
+                  <item>Lord <hi>Grey,</hi>
+                  </item>
+                  <item>Lord <hi>Maynard,</hi>
+                  </item>
+                  <item>Mr. <hi>Hollis,</hi>
+                  </item>
+                  <item>Mr. <hi>Liſle,</hi>
+                  </item>
+                  <item>Mr. <hi>Allen,</hi>
+                  </item>
+                  <item>Mr. <hi>Recorder,</hi>
+                  </item>
+                  <item>Coll. <hi>Rich.</hi>
+                  </item>
+                  <item>Sir <hi>Henry Mildmay,</hi>
+                  </item>
+                  <item>Sir <hi>Philip Stapleton,</hi>
+                  </item>
+                  <item>Sir <hi>Henry Vane,</hi> ſen.</item>
+                  <item>Sir <hi>John Maynard,</hi>
+                  </item>
+                  <item>Mr. <hi>Swynfen,</hi>
+                  </item>
+                  <item>Mr. <hi>Long,</hi>
+                  </item>
+                  <item>Mr. <hi>Aſhhurſt,</hi>
+                  </item>
+                  <item>Coll. <hi>Tompſon,</hi>
+                  </item>
+                  <item>Sir <hi>John Evelyn,</hi>
+                  </item>
+                  <item>Col. <hi>Norton,</hi>
+                  </item>
+                  <item>Mr. <hi>Bunkley,</hi>
+                  </item>
+                  <item>Sir <hi>Gil: Gerhard,</hi>
+                  </item>
+                  <item>Mr. <hi>Nicholas,</hi>
+                  </item>
+                  <item>Mr. <hi>John Aſh,</hi>
+                  </item>
+                  <item>Sir <hi>Richard Anſlow,</hi>
+                  </item>
+                  <item>Col. <hi>Ven,</hi>
+                  </item>
+                  <item>Sir <hi>John Clotworthy,</hi>
+                  </item>
+                  <item>Mr. <hi>Whitlock.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:114417:3"/>
+            <head>FOR The Commiſsioners of Parliament Reſiding with the ARMIE.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>HAving reſolved upon this incloſed di<g ref="char:EOLhyphen"/>ſpatch from the City of <hi>London,</hi> I thought it my part to give you an account of it, and to give you all aſſurance that my heart is deeply affected with the late carriages to<g ref="char:EOLhyphen"/>wards the Parliament. And how-ever others have neglected their duty towards them for their ſecurity and defence; yet as God ſhall inable me, it ſhall be my great buſineſſe, to improve all that is in my hand for the pre<g ref="char:EOLhyphen"/>ſerving of them, and in them the intereſt of this Nation, and what conſtruction ſoever, ſome formerly may have put upon the pro<g ref="char:EOLhyphen"/>ceedings of this Army: I truſt the Lord will by his good hand lead us into ſuch good actions as ſhall witneſſe our end anſwerable to all our profeſsion, to wit, for the good of
+<pb n="4" facs="tcp:114417:4"/>the Kingdome, and thereinto be an effectuall ſaving to great authority of the kingdome in the Parliament.</p>
+            <closer>
+               <dateline>Bedford <date>July 29. 1647,</date>
+               </dateline>
+               <signed>I reſt, Your moſt aſſured friend <hi>Tho. Fairefax.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Right Honorable the Lord Mayor, Alder<g ref="char:EOLhyphen"/>men, and Common Councell of the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>YOu may pleaſe to remember the forward com<g ref="char:EOLhyphen"/>pliance of this Army with your deſires, to re<g ref="char:EOLhyphen"/>move to this diſtance, and that upon the aſſurance you gave them of your concurrence with their declared deſires, for the ſettling the liberty and peace of this kingdome, (againſt which you never yet offered us one exception or any ground of diſſent) as alſo of your great tenderneſſe and reſolution to ſecure the Parlia<g ref="char:EOLhyphen"/>ment and their Priviledges, from any violence or at<g ref="char:EOLhyphen"/>tempt, the chief reaſon given us of your late liſting of new forces, and wherein we did moſt acquieſſe.</p>
+            <p>That upon this confidence wee had diſpoſed the Army into ſeverall parts of the Kingdome; for the eaſe of the whole, to above 100 miles diſtance: we had given up our ſelves, to the effecting of ſuch propoſals as might tend to the comfortable ſettlement of this poore Kingdome, and we were in a hopefull way for the ſpeedy releife of <hi>Ireland.</hi>
+            </p>
+            <p>We cannot then but be deepely ſenſible of the un<g ref="char:EOLhyphen"/>paralled violation acted upon the Parliament, upon
+<pb n="5" facs="tcp:114417:4"/>Monday laſt, by a rude multitude from your City, be<g ref="char:EOLhyphen"/>cauſe therein (the guards ſent from the City did not only neglect their duty for the ſecurity of the Parlia<g ref="char:EOLhyphen"/>ment from ſuch violence, and the whole City to yeeld any reliefe to the houſes in that extremity, but I am aſſured from eye and eare witneſſes, that divers of the Common-councell gave great incouragement to it, which doth not only gain-ſay your former profeſ<g ref="char:EOLhyphen"/>ſions, but does violence to thoſe many obligations that (by your Charter, Proteſtation, and ſundry other wayes) lye upon you to protect the Parliament.</p>
+            <p>For my part I cannot but look on your ſelves (who are in Authority) as accountable to the Kingdome, for your preſent interruptions of that hopefull way of Peace and ſettlement, things were in for this Nation, and of releiving <hi>Ireland,</hi> occaſioned by the late Trea<g ref="char:EOLhyphen"/>ſonable, and Doſtructive Engagement: Eſpecially by the latter Prodigious and horrid force done upon the Parliament, tending to diſſolve all Government upon which ſcore wee and the whole Kingdome ſhall have cauſe to put every thing of the like nature that may happen to the Parliament, or to any who are freinds to them and this Army except by your Wiſdom care and induſtry the cheif Acters in the premiſſes, may be Detected, ſecured and given up to the procuring of juſtice for the ſame, and the beſt indevours uſed to prevent the like for the future. And ſo I reſt.</p>
+            <closer>
+               <dateline>
+                  <date>Bedford 29 July. 1647.</date>
+               </dateline>
+               <signed>Your moſt aſſured friend to ſerve you, Tho. Fairefax.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_resolutions">
+            <pb n="6" facs="tcp:114417:5"/>
+            <opener>
+               <dateline>Guild-Hall London.</dateline>
+            </opener>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Veneris, 30 July 1647.</date>
+                  </dateline>
+               </opener>
+               <byline>By the Committee of Lords and Commons for Safety.</byline>
+               <p>Ordered, that the Reformadoes, Officers and Soul<g ref="char:EOLhyphen"/>ders be hereby deſired to Rendezvouz in Saint <hi>James</hi> Fields to morrow in the afternoon; And there, upon the view of their Numbers and Qualities, conſider, and agree of Field-officers, and others, as may put them in a condition fit for preſent ſervice in a Re<g ref="char:EOLhyphen"/>giamental-way: And that this Committee may bee certified therof, and how they are mounted &amp; armed.</p>
+               <closer>
+                  <signed>
+                     <hi>Tho. Partington,</hi> Clerk to the ſaid Committee</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Saturni 31 July 1647.</date>
+                  </dateline>
+               </opener>
+               <p>Reſolved upon the queſtion, by the Lords and Commons in Parliament Aſſembled, a letter to bee ſent to Sir <hi>Thomas Fairfax.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Saturni 31 July 1647.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Reſolved upon the queſtion,</hi> that the Kings Majeſty come to one of his Houſes nearer <hi>London</hi> that propoſitions may bee ſent, and addreſſe made to his Majeſty (from both Houſes of the Parliament of <hi>England,</hi> and the Kingdome of <hi>Scotland</hi>) for Peace.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Saturni 30 July 1647.</date>
+                  </dateline>
+               </opener>
+               <p n="1">
+                  <hi>1.</hi> Ordered by the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament Aſſemblled, that the Committee at <hi>Tri<g ref="char:EOLhyphen"/>nity Houſe</hi> take care to ſecure the Block-houſes at <hi>Graves end,</hi> and the Fort at <hi>Tilbury.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS,</trailer>
+      </body>
+   </text>
+</TEI>
